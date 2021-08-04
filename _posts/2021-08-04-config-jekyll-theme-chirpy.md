@@ -17,4 +17,4 @@ tags: [jekyll, github pages]
 4. 设置 GitHub 仓库，将 `gh-pages` 设置为 GitHub Pages 的发布源
 
 
-![](http://1057.pub/ghcos/images/202108042244605.jpg)
+![](http://1057.pub/ghcos/images/avatar01.jpg)
