@@ -160,6 +160,10 @@ exclude:
   - gulpfile.js
   - node_modules
   - '*.json'
+  - _v_recycle_bin
+  - vx.json
+  - vx_notebook
+  - vx_recycle_bin
 
 jekyll-archives:
   enabled: [categories, tags]
