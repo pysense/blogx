@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: Jekyll Theme Chirpy 主题配置
 categories: [笔记, 博客]
 description: 
 keywords: 
